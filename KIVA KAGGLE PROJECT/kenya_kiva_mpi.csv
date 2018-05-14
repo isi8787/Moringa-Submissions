@@ -1,0 +1,9 @@
+LocationName,ISO,country,region,world_region,MPI,geo,lat,lon
+"Central, Kenya",KEN,Kenya,Central,Sub-Saharan Africa,0.075,"(-4.0627412, 39.6771481)",-4.0627412,39.6771481
+"Coast, Kenya",KEN,Kenya,Coast,Sub-Saharan Africa,0.242,"(-3.2096898, 40.1169399)",-3.2096898,40.1169399
+"Eastern, Kenya",KEN,Kenya,Eastern,Sub-Saharan Africa,0.19,"(0.7137256, 35.517938)",0.7137256,35.517938
+"Nairobi, Kenya",KEN,Kenya,Nairobi,Sub-Saharan Africa,0.02,"(-1.2920659, 36.8219462)",-1.2920659,36.8219462
+"North Eastern, Kenya",KEN,Kenya,North Eastern,Sub-Saharan Africa,0.509,"(-0.0190061, 37.6480812)",-0.0190061,37.6480812
+"Nyanza, Kenya",KEN,Kenya,Nyanza,Sub-Saharan Africa,0.211,"(-1.2849963, 36.8272273)",-1.2849963,36.8272273
+"Rift Valley, Kenya",KEN,Kenya,Rift Valley,Sub-Saharan Africa,0.205,"(-18.382333, 47.2923893)",-18.382333,47.2923893
+"Western, Kenya",KEN,Kenya,Western,Sub-Saharan Africa,0.223,"(-0.115003, 34.851379)",-0.115003,34.851379
